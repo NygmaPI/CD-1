@@ -32,7 +32,7 @@ Both the _tatoeba-test.eng-fry.tsv_ and _tatoeba-test.fry-nld.tsv_ files are fro
 This dataset consists of three columns and 639 rows. The first column is a unique ID assigned by []. This ID isn't unique to Frisian; it's based on every added sentence in the database. The second column is an ISO 639-2 code for the language. The third column is the sentence in Frisian.
 
 | Column 1 | Column 2 | Column 3 |
-| ----------- | ----------- |
+| --- | --- | --- |
 | 384931	| fry | Lit my mei rêst! |
 | Tatoeba ID | ISO (Frisian) | Sentence in ISO language |
 
@@ -42,12 +42,12 @@ Do note that the corpus available online at [Tatoeba](https://tatoeba.org/en) is
 This dataset consists of four columns and [] rows and [] rows, respectively. In the "test" files, there are no unique IDs. Instead, the first column designates the language of the sentence in the third column. Similarly, the second column designates the language of the sentence in the fourth column. The language codes are in ISO 639-2.
 
 | Column 1 | Column 2 | Column 3 | Column 4 |
-| ----------- | ----------- |
+| ---- | ---- | ---- | ---- |
 | eng	| fry | I don't have a sword.	| Ik ha gjin swurd. |
 | ISO (English) | ISO (Frisian) | Sentence in English | Sentence in Frisian |
 
 | Column 1 | Column 2 | Column 3 | Column 4 |
-| ----------- | ----------- |
+| ---- | ---- | ---- | ---- |
 | fry	| nld | Ik sil dy nea ferjitte. |	Ik zal je nooit vergeten. |
 | ISO (Frisian) | ISO (Dutch) | Sentence in Frisian | Sentence in Dutch |
 
