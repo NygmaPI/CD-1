@@ -4,7 +4,7 @@ This repository includes three (3) Tab-separated values (TSV) files provided by 
 
 All three of these files were chosen because of their inclusion of the Frisian language. While there are several branches of Frisian, these datasets are comprised of the West Frisian branch of the Frisian language, which is by far the most spoken of the three. It is an official language in the Dutch province of Friesland, where it is spoken on the mainland, and on two of the West Frisian Islands, as well as an official language of the Netherlands.
 
-![Frisian Flag](https://upload.wikimedia.org/wikipedia/commons/c/ca/Frisian_flag.svg)
+![Frisian Flag](https://upload.wikimedia.org/wikipedia/commons/c/ca/Frisian_flag.svg | width=200)
 
 ### Frisian
 > Frisian language, the West Germanic language most closely related to English. Although Frisian was formerly spoken from what is now the province of Noord-Holland (North Holland) in the Netherlands along the North Sea coastal area to modern German Schleswig, including the offshore islands in this area, modern Frisian is spoken in only three small remaining areas, each with its own dialect. [...]
