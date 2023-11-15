@@ -30,10 +30,8 @@ Both the _tatoeba-test.eng-fry.tsv_ and _tatoeba-test.fry-nld.tsv_ files are fro
 ## Variables
 a table with a list of the variables in the dataset and a brief description of what they are
 #### _fry_sentences.tsv_
-| Row 1      | Row 2 |
-| ----------- | ----------- |
-| Header      | Sentence       |
-| Paragraph   | A sentence in Frisian.        |
+| 384931	| fry | Lit my mei rêst! |
+| Index number | Language code   | A sentence in Frisian. |
 
 #### _tatoeba-test.eng-fry.tsv_ and _tatoeba-test.fry-nld.tsv_
 | Row 1      | Row 2 |
