@@ -5,13 +5,13 @@ This repository includes three (3) Tab-separated values (TSV) files provided by 
 All three of these files were chosen because of their inclusion of the Frisian language. While there are several branches of Frisian, these datasets are comprised of the West Frisian branch of the Frisian language, which is by far the most spoken of the three. It is an official language in the Dutch province of Friesland, where it is spoken on the mainland, and on two of the West Frisian Islands, as well as an official language of the Netherlands.
 
 ### Frisian
-> Frisian language, the West Germanic language most closely related to English. Although Frisian was formerly spoken from what is now the province of Noord-Holland (North Holland) in the Netherlands along the North Sea coastal area to modern German Schleswig, including the offshore islands in this area, modern Frisian is spoken in only three small remaining areas, each with its own dialect. These dialects are West Frisian, which is spoken in the province of Friesland in the Netherlands, including the islands of Schiermonnikoog and Terschelling; East Frisian, which is spoken in the Saterland west of Oldenburg, Ger.; and North Frisian, which is spoken along the west coast of Schleswig in Germany and on the offshore islands of Sylt, Föhr, Amrum, the Halligen Islands, and Helgoland.
+> Frisian language, the West Germanic language most closely related to English. Although Frisian was formerly spoken from what is now the province of Noord-Holland (North Holland) in the Netherlands along the North Sea coastal area to modern German Schleswig, including the offshore islands in this area, modern Frisian is spoken in only three small remaining areas, each with its own dialect. [...]
 > 
 > Written records date from the end of the 13th century and are in Old Frisian, a stage of the language that lasted until the late 16th century. Old Frisian shows all the features that distinguish English and Frisian from the other Germanic languages.
 > 
 > Although Frisian was little used as a written language for about 300 years after the end of the Old Frisian period, there has been a revival in modern times in the West Frisian area. The language is now used in the schools and courts in the province of Friesland. There is also a Frisian Academy. East and North Frisian are being gradually supplanted by German.
 
-— Britannica(https://www.britannica.com/topic/Frisian-language)
+— [Britannica](https://www.britannica.com/topic/Frisian-language)
 
 ### Taboeba
 According to their website([3](https://tatoeba.org/en)), Taboeba is:
