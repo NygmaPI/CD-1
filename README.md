@@ -28,7 +28,7 @@ Both the _tatoeba-test.eng-fry.tsv_ and _tatoeba-test.fry-nld.tsv_ files are fro
 - _tatoeba-test.fry-nld.tsv_ includes Frisian sentences and their Dutch equivalent.
 
 ## Variables
-#### _fry_sentences.tsv_
+### _fry_sentences.tsv_
 This dataset consists of three columns and 639 rows. The first column is a unique ID assigned by []. This ID isn't unique to Frisian; it's based on every added sentence in the database. The second column is an ISO 639-2 code for the language. The third column is the sentence in Frisian.
 
 | Column 1 | Column 2 | Column 3 |
@@ -38,8 +38,8 @@ This dataset consists of three columns and 639 rows. The first column is a uniqu
 
 Do note that the corpus available online at [Tatoeba](https://tatoeba.org/en) is constantly being expanded, so the number of rows might not correspond to the number of Frisian sentence in their corpus at the time of reading this. The number of Frisian sentences listed above is accurate as of 15 November 2023.
 
-#### _tatoeba-test.eng-fry.tsv_ and _tatoeba-test.fry-nld.tsv_
-This dataset consists of four columns and [] rows and [] rows, respectively. In the "test" files, there are no unique IDs. Instead, the first column designates the language of the sentence in the third column. Similarly, the second column designates the language of the sentence in the fourth column. The language codes are in ISO 639-2.
+### _tatoeba-test.eng-fry.tsv_ and _tatoeba-test.fry-nld.tsv_
+This dataset consists of four columns and 220 rows and 260 rows, respectively. In the "test" files, there are no unique IDs. Instead, the first column designates the language of the sentence in the third column. Similarly, the second column designates the language of the sentence in the fourth column. The language codes are in ISO 639-2.
 
 | Column 1 | Column 2 | Column 3 | Column 4 |
 | ---- | ---- | ---- | ---- |
